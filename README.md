@@ -1,0 +1,1 @@
+# openEHR-EHR-INSTRUCTION.diagnostic_imaging_order.v1
